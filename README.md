@@ -1,0 +1,2 @@
+# Django_DelectedRoom
+El usuario podrá ingresar datos y guardarse,eliminarse y insertarlos mediante el trabajo implementado desde vs code con su base de datos sqlite3 incrustado en el proyecto mediante SqliteRoom y podrá ver en el siguiente vista los siguientes parametros que se insertó en la primera vista y de iagual manera se podra eliminar dichos columnas seleccionada en dicho boton implementado donde se eliminara dicho atributo segun los estandares de la calidad segun los datos implementados que se realizó.
